@@ -1,5 +1,8 @@
 # AutoSpawnPoketwo
-- [Replit link](https://replit.com/@Raquison/AutoSpawnPoketwo)
+### Links
+
+- [replit](https://replit.com/@Raquison/AutoSpawnPoketwo)
+- [github](https://github.com/Kameil/AutoSpawnPoketwo/tree/main)
 
 ## Como usar?
 
