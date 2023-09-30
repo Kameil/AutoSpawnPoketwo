@@ -43,7 +43,11 @@ Comando de run: **python3 main.py**
 
 - Esse erro acontece quando a biblioteca discord.py se sobrepoe a discord.py-self para resolver e so executar o comando:
  
-`pip uninstall discord.py-self && pip install discord.py-self==2.0.0`
+```
+pip uninstall discord.py-self && pip install discord.py-self==2.0.0
+```
+
+
 
 
 #### ChannelNotFound
