@@ -5,6 +5,10 @@ paused = False
 spam_id = os.environ['spam_id']
 client, token = commands.Bot(command_prefix='!', help_command=None), os.environ['token']
 
+class ChannelNotFound(Exception):
+    def __init__(self, message) -> None:
+        super().__init__(message)
+        self.message = message
 
 async def spam(canal, time):
     if canal:
@@ -17,7 +21,7 @@ async def spam(canal, time):
                 await asyncio.sleep(60)
                 pass
     else:
-        raise RuntimeError('o canal nao foi encontrado verifique seu spam_id')
+        raise ChannelNotFound('Canal Nao Encontrado Verifique seu "spam_id".')
     
 
 @client.event
