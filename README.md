@@ -53,7 +53,7 @@ pip uninstall discord.py-self && pip install discord.py-self==2.0.0
 #### ChannelNotFound
 
 ![ChannelNotFound](https://raw.githubusercontent.com/Kameil/arquivos-para-eu-da-uns-request-tendeu/main/imagens/Screenshot_43.png "channel not Found")
-- Esse erro acontece quando o [spam_id](https://github.com/Kameil/AutoSpawnPoketwo#spam-id) Esta Invalido.
+- Esse erro acontece quando o [spam_id](#spam-id) Esta Invalido.
 
 ------------
 
