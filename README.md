@@ -34,7 +34,7 @@ Comando de run: **python3 main.py**
 
 ![improper token](https://raw.githubusercontent.com/Kameil/arquivos-para-eu-da-uns-request-tendeu/main/imagens/Screenshot_32.png "improper token")
 
-- Esse erro acontece quando o token que voce colocou no secret **token** esta invalido.
+- Esse erro acontece quando o token que voce colocou no [secret **token**](#token) esta invalido.
 
 
 #### Intents
