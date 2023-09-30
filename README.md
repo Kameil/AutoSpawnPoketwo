@@ -1,7 +1,7 @@
 # AutoSpawnPoketwo
 ### Links
 
-- [replit](https://replit.com/@Raquison/AutoSpawnPoketwo)
+- [replit](https://replit.com/@Raquison/AutoSpawnPoketwo#README.md)
 - [github](https://github.com/Kameil/AutoSpawnPoketwo/tree/main)
 
 ## Como usar?
