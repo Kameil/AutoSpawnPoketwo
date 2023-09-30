@@ -62,10 +62,10 @@ pip uninstall discord.py-self && pip install discord.py-self==2.0.0
 - command_prefix = "!"
 
 #### Start
-- Ao digitar **!start** no canal cujo o id esta no spam id o bot ira despausar ou enviar uma mensagem informando que nao esta pausado.
+- Ao digitar **!start** no canal cujo o id esta no [spam id](#spam-id) o bot ira despausar ou enviar uma mensagem informando que nao esta pausado.
 
 #### Stop
-- Ao digitar **!stop** no canal cujo o id esta no spam_id o bot ira pausar ou enviar uma mensagem indicando que esta pausado.
+- Ao digitar **!stop** no canal cujo o id esta no [spam id](#spam-id) o bot ira pausar ou enviar uma mensagem indicando que esta pausado.
 
 
 ------------
