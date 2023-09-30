@@ -41,7 +41,8 @@ Comando de run: **python3 main.py**
 
 ![missing intents](https://raw.githubusercontent.com/Kameil/arquivos-para-eu-da-uns-request-tendeu/main/imagens/Screenshot_35.png "missing intents")
 
-- Esse erro acontece quando a biblioteca discord.py se sobrepoe a discord.py-self para resolver e so executar o comando: 
+- Esse erro acontece quando a biblioteca discord.py se sobrepoe a discord.py-self para resolver e so executar o comando:
+ 
 `pip uninstall discord.py-self && pip install discord.py-self==2.0.0`
 
 
