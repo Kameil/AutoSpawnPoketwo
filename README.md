@@ -41,7 +41,14 @@ Comando de run: **python3 main.py**
 
 ![missing intents](https://raw.githubusercontent.com/Kameil/arquivos-para-eu-da-uns-request-tendeu/main/imagens/Screenshot_35.png "missing intents")
 
-- Esse erro acontece quando a biblioteca discord.py se sobrepoe a discord.py-self para resolver e so executar o comando: **pip uninstall discord.py-self && pip install discord.py-self==2.0.0**
+- Esse erro acontece quando a biblioteca discord.py se sobrepoe a discord.py-self para resolver e so executar o comando: 
+`pip uninstall discord.py-self && pip install discord.py-self==2.0.0`
+
+
+#### ChannelNotFound
+
+![ChannelNotFound](https://raw.githubusercontent.com/Kameil/arquivos-para-eu-da-uns-request-tendeu/main/imagens/Screenshot_43.png "channel not Found")
+- Esse erro acontece quando o [spam_id](https://github.com/Kameil/AutoSpawnPoketwo#spam-id) Esta Invalido.
 
 ------------
 
